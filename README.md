@@ -2,7 +2,6 @@
 
 ![Flutter Version](https://img.shields.io/badge/Flutter-3.7.2+-blue.svg)
 ![Dart Version](https://img.shields.io/badge/Dart-3.0.0+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 BaseApp is a modern Flutter application showcasing best practices for state management, localization, and architecture implementation. This project demonstrates the MVVM (Model-View-ViewModel) architecture pattern using Provider for state management.
 
