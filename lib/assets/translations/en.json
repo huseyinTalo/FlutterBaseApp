@@ -1,0 +1,11 @@
+{
+  "app_title": "Flutter Demo",
+  "home": "Home",
+  "settings": "Settings",
+  "about": "About",
+  "change_theme": "Change Theme",
+  "light_theme": "Light Theme",
+  "dark_theme": "Dark Theme",
+  "counter_text": "You have pushed the button this many times:",
+  "email": "mail@example.com"
+}

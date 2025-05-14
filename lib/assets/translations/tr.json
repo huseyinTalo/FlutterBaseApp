@@ -1,0 +1,11 @@
+{
+  "app_title": "Flutter Demo",
+  "home": "Ana Sayfa",
+  "settings": "Ayarlar",
+  "about": "Hakkında",
+  "change_theme": "Temayı Değiştir",
+  "light_theme": "Açık Tema",
+  "dark_theme": "Koyu Tema",
+  "counter_text": "Butona bastığınız sayı:",
+  "email": "mail@example.com"
+}
