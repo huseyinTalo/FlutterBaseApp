@@ -138,28 +138,6 @@ The project follows MVVM architecture:
 - **Views**: UI components and screens
 - **ViewModels**: State managers that connect Models and Views
 
-## 🧪 Testing
-
-Run tests with:
-
-```bash
-flutter test
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Flutter team for the amazing framework
@@ -169,5 +147,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️
 </p>
