@@ -4,7 +4,7 @@
 ![Dart Version](https://img.shields.io/badge/Dart-3.0.0+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-DrVerApp is a modern Flutter application showcasing best practices for state management, localization, and architecture implementation. This project demonstrates the MVVM (Model-View-ViewModel) architecture pattern using Provider for state management.
+BaseApp is a modern Flutter application showcasing best practices for state management, localization, and architecture implementation. This project demonstrates the MVVM (Model-View-ViewModel) architecture pattern using Provider for state management.
 
 <p align="center">
   <img src="screenshots/app_screenshot.png" alt="App Screenshot" width="300"/>
