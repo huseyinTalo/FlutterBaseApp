@@ -42,7 +42,7 @@ DrVerApp is a modern Flutter application showcasing best practices for state man
 
 ```bash
 git clone https://github.com/yourusername/drverapp.git
-cd drverapp
+cd baseapp
 ```
 
 2. **Install dependencies**
